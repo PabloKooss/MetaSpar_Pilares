@@ -81,6 +81,6 @@ Debido a que los objetos que son hijos del rastreador de aviones aparecerán en 
 
 Cuando agrega un rastreador de avión a un efecto, es una buena idea agregar una instrucción para que los usuarios sepan que el efecto debe verse a través de la cámara trasera. Puede utilizar el Editor de parches para hacer esto.
 
-
+<h3>filtro Pablo</h3>
 
 https://www.instagram.com/ar/732638822143973/?ch=ZGM0NDIxNjU1MzEzYzJkMmE3NTA0ZTQxNmY0N2U0NjI%3D
