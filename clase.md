@@ -65,5 +65,6 @@ Realidad mixta
 ·poner nombre a cada material
 
 ---
-#Actividad.
+<h3>Actividad.</h3>
 
+hacer un objeto 3D 
