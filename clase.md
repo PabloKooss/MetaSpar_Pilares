@@ -1,5 +1,5 @@
-#Metaverso
----
+<h1>#Metaverso</h1>
+
 1.Metaverso
 ```psc
 ¿Que es?
@@ -68,3 +68,18 @@ Realidad mixta
 <h3>Actividad.</h3>
 
 hacer un objeto 3D 
+hacer un plane tracker
+target tracker y plane tracker no se puede hacer al mismo tiempo
+
+<h1>
+  Plane tracker
+</h1>
+
+<image src="https://scontent.fmex26-1.fna.fbcdn.net/v/t39.2365-6/133356229_1275522526150659_7650537262237224681_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=e280be&_nc_ohc=VZm6Wm95JR8AX80S7v3&_nc_ht=scontent.fmex26-1.fna&oh=00_AfC_DQNwpYuZ9_WrFqHPJtppA_ybqpH5RN0D3JcUNyRm6A&oe=65C67EC0">
+
+<p>
+Utilice el rastreador de planos para crear un efecto mundial en Meta Spark Studio, colocando objetos 3D en los entornos de las personas.
+Un rastreador de aviones encontrará una superficie horizontal en el mundo real, como del suelo a la mesa. Los objetos que son hijos del rastreador de aviones aparecerán cuando se detecte la superficie.
+Solo puedes agregar un rastreador de avión a una escena, pero puedes hacer que varios objetos respondan al rastreador de avión. No se pueden utilizar un rastreador de avión y un rastreador de objetivos en la misma escena.
+Los efectos de seguimiento del plano solo son visibles a través de la cámara en la parte posterior del dispositivo.
+</p>
