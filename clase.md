@@ -102,6 +102,14 @@ Su ventana gráfica se verá así:
 
 <img src="https://scontent.fmex26-1.fna.fbcdn.net/v/t39.2365-6/87529754_194508271622020_8020197245926244352_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=TnIrRi3QZsQAX8Iq_DM&_nc_oc=AQm-1iJVjbNjsBvP5hFLAxVNSkX8f50zyjPAIu-K8gZ6afaV8tzfpZwqAbh1gpEwCNE&_nc_ht=scontent.fmex26-1.fna&oh=00_AfDT2Hs1kICY-KLKSXDoT799tH45iihu4DU43iFYCtExGA&oe=65C683B0">
 
+![imagen](https://github.com/PabloKooss/MetaSpar_Pilares/assets/128625936/681c5d9a-5716-457b-8b9e-08af01b05c3c)
+
+![imagen](https://github.com/PabloKooss/MetaSpar_Pilares/assets/128625936/4e31025d-70cd-429e-8df6-b1b4de0caa5b)
+
+
+![imagen](https://github.com/PabloKooss/MetaSpar_Pilares/assets/128625936/e95c2e38-09ef-4488-8a8f-3396ae212cbe)
+
+
 <h3>Hacer que aparezca un objeto cuando se detecta una superficie</h3>
 Para hacer que un objeto aparezca cuando la cámara detecta una superficie, todo lo que necesita hacer es convertir el objeto en hijo del rastreador de avión en el panel Escena. En Meta Spark Studio, cuando un objeto es hijo de otro objeto, responderá y asumirá cualquier cambio realizado en su objeto principal.
 Para hacer esto, ya sea:
@@ -138,3 +146,7 @@ Debido a que los objetos que son hijos del rastreador de aviones aparecerán en 
 </H3>
 
 Cuando agrega un rastreador de avión a un efecto, es una buena idea agregar una instrucción para que los usuarios sepan que el efecto debe verse a través de la cámara trasera. Puede utilizar el Editor de parches para hacer esto.
+
+
+
+https://www.instagram.com/ar/732638822143973/?ch=ZGM0NDIxNjU1MzEzYzJkMmE3NTA0ZTQxNmY0N2U0NjI%3D
