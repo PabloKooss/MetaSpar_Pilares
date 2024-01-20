@@ -83,3 +83,21 @@ Un rastreador de aviones encontrará una superficie horizontal en el mundo real,
 Solo puedes agregar un rastreador de avión a una escena, pero puedes hacer que varios objetos respondan al rastreador de avión. No se pueden utilizar un rastreador de avión y un rastreador de objetivos en la misma escena.
 Los efectos de seguimiento del plano solo son visibles a través de la cámara en la parte posterior del dispositivo.
 </p>
+
+<h3>
+  Agregar un rastreador de aviones
+</h3>
+
+<p>
+  Para agregar un rastreador de aviones a su proyecto:
+  
+```psc
+     Haga clic en + en la parte inferior del panel Escena.
+     Seleccione Rastreador de aviones.
+```
+
+Debido a que los rastreadores de aviones solo funcionan a través de la cámara trasera, el video en el Simulador será reemplazado automáticamente por un video que muestra el mundo, en lugar de una persona.
+Su ventana gráfica se verá así:
+</p>
+
+<img src="https://scontent.fmex26-1.fna.fbcdn.net/v/t39.2365-6/87529754_194508271622020_8020197245926244352_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=TnIrRi3QZsQAX8Iq_DM&_nc_oc=AQm-1iJVjbNjsBvP5hFLAxVNSkX8f50zyjPAIu-K8gZ6afaV8tzfpZwqAbh1gpEwCNE&_nc_ht=scontent.fmex26-1.fna&oh=00_AfDT2Hs1kICY-KLKSXDoT799tH45iihu4DU43iFYCtExGA&oe=65C683B0">
