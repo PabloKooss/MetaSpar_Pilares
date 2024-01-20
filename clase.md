@@ -60,5 +60,10 @@ Realidad mixta
 <image src="https://www.w3schools.com/css/img_temp_band.jpg" alt="Programar de forma responsiva">
 
 ---
+#el "0,0" global es el centro de la camara, el "0,0" local es el centro de la pantalla. 
+
+·poner nombre a cada material
+
+---
 #Actividad.
 
