@@ -84,8 +84,7 @@ Para agregar el efecto que desea activar cuando la cámara apunta al objetivo, a
 https://www.instagram.com/ar/914186476964142/?ch=MTcyNGYzOTYyYTFiMzFmN2Y2MTkyZDkxODM4OTc1ZWY%3D
 
 
-
-https://www.instagram.com/ar/914186476964142/?ch=MTcyNGYzOTYyYTFiMzFmN2Y2MTkyZDkxODM4OTc1ZWY%3D
+https://www.facebook.com/fbcameraeffects/testit/2282980935226287/MTdlNDdkNDliZjU3MDYwZDI2NmQ0NDYzYWVjZjg3M2E=/?source=test_link
 
 
 
